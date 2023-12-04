@@ -1,0 +1,14 @@
+tg\univlome\epl\boutique\client\gui\sections\ProduitsTable.class
+tg\univlome\epl\boutique\client\gui\widgets\SuperFormComponent.class
+tg\univlome\epl\boutique\client\gui\AddProduitPage.class
+tg\univlome\epl\boutique\client\utils\implementations\ProduitClient$1.class
+tg\univlome\epl\boutique\client\utils\implementations\ProduitClient.class
+tg\univlome\epl\boutique\client\gui\ProduitsScreen.class
+tg\univlome\epl\boutique\client\gui\widgets\FormComponentBuilder.class
+tg\univlome\epl\boutique\client\utils\interfaces\ClientInterface.class
+tg\univlome\epl\boutique\client\utils\implementations\CategorieClient$1.class
+tg\univlome\epl\boutique\client\gui\sections\HeaderPanel.class
+tg\univlome\epl\boutique\client\gui\sections\ProduitsTable$1.class
+tg\univlome\epl\boutique\client\BoutiqueClient.class
+tg\univlome\epl\boutique\client\gui\EditProduitScreen.class
+tg\univlome\epl\boutique\client\utils\implementations\CategorieClient.class
